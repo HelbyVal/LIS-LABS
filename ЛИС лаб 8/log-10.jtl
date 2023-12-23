@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703278058924,3814,HTTP Request,200,OK,Users 1-3,text,true,,1670907,228,10,10,https://etexpress.ru/,75,0,37
+1703278058924,75,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,529,114,10,10,http://etexpress.ru/,75,0,37
+1703278059000,3738,HTTP Request-1,200,OK,Users 1-3,text,true,,1670378,114,10,10,https://etexpress.ru/,375,0,183
+1703278059122,3660,HTTP Request,200,OK,Users 1-5,text,true,,1670907,228,9,9,https://etexpress.ru/,72,0,34
+1703278059122,72,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,529,114,9,9,http://etexpress.ru/,72,0,34
+1703278059195,3587,HTTP Request-1,200,OK,Users 1-5,text,true,,1670378,114,9,9,https://etexpress.ru/,274,0,103
+1703278059225,3613,HTTP Request,200,OK,Users 1-6,text,true,,1670907,228,8,8,https://etexpress.ru/,78,0,41
+1703278059225,78,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,529,114,8,8,http://etexpress.ru/,78,0,41
+1703278059304,3534,HTTP Request-1,200,OK,Users 1-6,text,true,,1670378,114,8,8,https://etexpress.ru/,250,0,79
+1703278059324,3949,HTTP Request,200,OK,Users 1-7,text,true,,1670907,228,7,7,https://etexpress.ru/,106,0,44
+1703278059324,106,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,529,114,7,7,http://etexpress.ru/,106,0,44
+1703278059430,3843,HTTP Request-1,200,OK,Users 1-7,text,true,,1670378,114,7,7,https://etexpress.ru/,321,0,128
+1703278059523,3780,HTTP Request,200,OK,Users 1-9,text,true,,1670907,228,6,6,https://etexpress.ru/,93,0,37
+1703278059523,93,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,529,114,6,6,http://etexpress.ru/,93,0,37
+1703278059617,3686,HTTP Request-1,200,OK,Users 1-9,text,true,,1670378,114,6,6,https://etexpress.ru/,384,0,135
+1703278059024,4348,HTTP Request,200,OK,Users 1-4,text,true,,1670907,228,5,5,https://etexpress.ru/,79,0,44
+1703278059024,79,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,529,114,5,5,http://etexpress.ru/,79,0,44
+1703278059103,4269,HTTP Request-1,200,OK,Users 1-4,text,true,,1670378,114,5,5,https://etexpress.ru/,268,0,92
+1703278059623,3760,HTTP Request,200,OK,Users 1-10,text,true,,1670907,228,5,5,https://etexpress.ru/,127,0,54
+1703278059623,127,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,529,114,5,5,http://etexpress.ru/,127,0,54
+1703278059751,3632,HTTP Request-1,200,OK,Users 1-10,text,true,,1670378,114,5,5,https://etexpress.ru/,501,0,162
+1703278059422,3994,HTTP Request,200,OK,Users 1-8,text,true,,1670907,228,3,3,https://etexpress.ru/,129,0,59
+1703278059422,129,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,529,114,3,3,http://etexpress.ru/,129,0,59
+1703278059552,3864,HTTP Request-1,200,OK,Users 1-8,text,true,,1670378,114,3,3,https://etexpress.ru/,360,0,130
+1703278058826,4590,HTTP Request,200,OK,Users 1-2,text,true,,1670907,228,3,3,https://etexpress.ru/,68,0,33
+1703278058826,75,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,529,114,3,3,http://etexpress.ru/,68,0,33
+1703278058903,4513,HTTP Request-1,200,OK,Users 1-2,text,true,,1670378,114,3,3,https://etexpress.ru/,451,0,280
+1703278058791,4742,HTTP Request,200,OK,Users 1-1,text,true,,1670907,228,1,1,https://etexpress.ru/,103,0,53
+1703278058791,110,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,529,114,1,1,http://etexpress.ru/,103,0,53
+1703278058903,4630,HTTP Request-1,200,OK,Users 1-1,text,true,,1670378,114,1,1,https://etexpress.ru/,468,0,280
